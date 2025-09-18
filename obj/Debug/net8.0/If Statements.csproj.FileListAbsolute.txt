@@ -1,0 +1,28 @@
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\bin\Debug\net8.0\If Statements.exe
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\bin\Debug\net8.0\If Statements.deps.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\bin\Debug\net8.0\If Statements.runtimeconfig.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\bin\Debug\net8.0\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\bin\Debug\net8.0\If Statements.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.AssemblyInfoInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.AssemblyInfo.cs
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.csproj.CoreCompileInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\refint\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\If Statements.genruntimeconfig.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\If Statements\obj\Debug\net8.0\ref\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\bin\Debug\net8.0\If Statements.exe
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\bin\Debug\net8.0\If Statements.deps.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\bin\Debug\net8.0\If Statements.runtimeconfig.json
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\bin\Debug\net8.0\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\bin\Debug\net8.0\If Statements.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.AssemblyInfoInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.AssemblyInfo.cs
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.csproj.CoreCompileInputs.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\refint\If Statements.dll
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.pdb
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\If Statements.genruntimeconfig.cache
+C:\Users\lg1033338\OneDrive - Ozarks Technical Community College\2025-Spring\CIS-120-101\Odd and Even\obj\Debug\net8.0\ref\If Statements.dll

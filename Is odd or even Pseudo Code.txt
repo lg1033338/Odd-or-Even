@@ -1,0 +1,11 @@
+/* Divison Program
+Created By: Logan Galindo
+Takes in two numbers and divides 
+*/
+
+Ask User for # 
+Take in a string and convert
+Using Mod to check if Even
+If number was even then show "Even" to User
+Uses Mod to check if Odd
+If number was odd then show "Odd" to User
